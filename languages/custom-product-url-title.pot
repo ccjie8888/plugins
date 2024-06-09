@@ -1,0 +1,30 @@
+# Translation template for Custom Product URL and Title plugin
+msgid ""
+msgstr ""
+"Project-Id-Version: custom-product-url-title\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: includes/class-custom-product-url-title-settings.php:23
+msgid "Custom Product URL and Title Settings"
+msgstr ""
+
+#: includes/class-custom-product-url-title-settings.php:24
+msgid "Product URL and Title"
+msgstr ""
+
+#: includes/class-custom-product-url-title-settings.php:46
+msgid "URL Structure"
+msgstr ""
+
+#: includes/class-custom-product-url-title-settings.php:55
+msgid "Title Structure"
+msgstr ""
+
+#: includes/class-custom-product-url-title-settings.php:67
+msgid "Save Changes"
+msgstr ""

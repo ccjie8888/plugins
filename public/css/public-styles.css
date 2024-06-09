@@ -1,0 +1,10 @@
+/* 前端页面的样式 */
+.product-title {
+    font-size: 24px;
+    color: #333;
+}
+
+.product-variant {
+    font-size: 18px;
+    color: #666;
+}
